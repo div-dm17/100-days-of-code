@@ -1,10 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: November 11, 2019 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I choose what to code in this 100 day code challenge. So I decided to complete Front end development that inclde HTML5, CSS, BOOTSTRAP, JS, REACT, ANGULAR. I also decided to enroll in certification course and complete it in 100 days and I enrolled in Resposive web development certification course (duration 300 hours) from FreeCodeCamp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Thoughts:** I'm bit excited for my Day 1 I want to make sure my continuity never broke in this duration of #100 Days of Code. 
 
 **Link to work:** [Calculator App](http://www.example.com)
