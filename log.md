@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: November 11, 2019 
-##### (delete me or comment me out)
 
 **Today's Progress**: Today I choose what to code in this 100 day code challenge. So I decided to complete Front end development that inclde HTML5, CSS, BOOTSTRAP, JS, REACT, ANGULAR. I also decided to enroll in certification course and complete it in 100 days and I enrolled in Resposive web development certification course (duration 300 hours) from FreeCodeCamp.
 
